@@ -41,6 +41,7 @@
     "url": "https://github.com/blinkhash/foundation-v2-server.git"
   },
   "dependencies": {
+    "foundation-v2-kiirocoin": "https://github.com/lutsifer/foundation-v2-kiirocoin.git"
     "apicache": "^1.6.3",
     "async": "^3.2.4",
     "body-parser": "^1.20.0",
