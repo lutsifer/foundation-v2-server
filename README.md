@@ -1,4 +1,4 @@
-# Foundation Server (v2)
+# Foundation Server (v2) (dedicated fork for kiirocoin, still in development)
 
 [![Codecov Coverage](https://img.shields.io/codecov/c/github/blinkhash/foundation-v2-bitcoin.svg?style=flat-square)](https://codecov.io/gh/blinkhash/foundation-v2-bitcoin/)
 [![Foundation CI](https://github.com/blinkhash/foundation-v2-bitcoin/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/blinkhash/foundation-v2-bitcoin/actions/workflows/build.yml)
